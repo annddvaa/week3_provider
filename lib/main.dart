@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:week3_provider/CartModel.dart';
+import 'package:week3_provider/MyCart.dart';
 import 'package:week3_provider/MyCatalog.dart';
 
 void main() {
